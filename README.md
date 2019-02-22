@@ -50,9 +50,7 @@ d. print("selesai") :
 memunculkan pernyataan bahwa hasil telah di temukan dan selesai
 
 Dan jalankan syntax yang sudah di buat dengan menu RUN yang terdapat pada aplikasi Pycharm
-
-![11](https://user-images.githubusercontent.com/46743068/53249025-9e24c300-36e9-11e9-8cef-e05e698c0d30.jpg)
-
+![11](https://user-images.githubusercontent.com/46743068/53250915-fbbb0e80-36ed-11e9-89e8-1c2cadf150a6.jpg)
 2. Latihan Kedua
 Mencari bilangan dan menampilkan bilangan terbesar dari (n) sebuah data yang diinputkan.
 Dan Memasukkan angka 0 untuk berhenti.
