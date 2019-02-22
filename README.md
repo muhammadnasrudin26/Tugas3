@@ -50,7 +50,9 @@ d. print("selesai") :
 memunculkan pernyataan bahwa hasil telah di temukan dan selesai
 
 Dan jalankan syntax yang sudah di buat dengan menu RUN yang terdapat pada aplikasi Pycharm
+
 ![11](https://user-images.githubusercontent.com/46743068/53249025-9e24c300-36e9-11e9-8cef-e05e698c0d30.jpg)
+
 2. Latihan Kedua
 Mencari bilangan dan menampilkan bilangan terbesar dari (n) sebuah data yang diinputkan.
 Dan Memasukkan angka 0 untuk berhenti.
@@ -90,7 +92,9 @@ i. print('Bilangan terbesarnya adalah = ',max)
 dan perintah ini untuk menampilkan hasil bilangan yang dimasukan dan terbesar
 
 Pilih menu Run pada menu Pycharm untuk menjalankan hasil dari syntax yang kita buat
+
 ![b2](https://user-images.githubusercontent.com/46743068/53249298-57839880-36ea-11e9-864d-bdbc8ddf1d81.jpg)
+
 3. Latihan Ketiga
 
 Membuat program sederhana dengan perulangan: "program1".py
