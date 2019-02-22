@@ -152,3 +152,9 @@ j. print('total laba yang di dapet adalah :',sum)
 menampilkan hasil jumlahan variabel atau hasil laba
 
 Pilih menu Run pada menu Pycharm untuk menjalankan hasil dari syntax yang kita buat
+![c2](https://user-images.githubusercontent.com/46743068/53251578-92d49600-36ef-11e9-8b48-3106b3b4ff79.jpg)
+
+SEKIAN TUGAS DARI SAYA
+
+MUHAMMAD NASRUDIN
+311810731
