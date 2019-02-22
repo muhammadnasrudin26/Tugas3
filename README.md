@@ -57,16 +57,17 @@ Dan jalankan syntax yang sudah di buat dengan menu RUN yang terdapat pada aplika
 Mencari bilangan dan menampilkan bilangan terbesar dari (n) sebuah data yang diinputkan.
 Dan Memasukkan angka 0 untuk berhenti.
 
-1. Ketikan Syntax :
-print('====== Menentukan Bilangan Terbesar ======')
-max=0
-while True:
-a=int(input('Masukkan bilangan = '))
-if max < a
-max = a
-if a==0:
-break
+1. Ketikan Syntax :                                                                                                             
+print('====== Menentukan Bilangan Terbesar ======')                                                                             
+max=0                                                                                                                           
+while True:                                                                                                                     
+a=int(input('Masukkan bilangan = '))                                                                                            
+if max < a                                                                                                                      
+max = a                                                                                                                         
+if a==0:                                                                                                                        
+break                                                                                                                           
 print('Bilangan terbesarnya adalah = ',max)
+
 ![b 1](https://user-images.githubusercontent.com/46743068/53249127-fa87e280-36e9-11e9-829d-fac11ffca5ae.jpg
 a. print('====== Menentukan Bilangan Terbesar ======') :
 Digunakan untuk memberikan judul dari program yang akan dibuat
