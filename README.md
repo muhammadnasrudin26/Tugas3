@@ -21,8 +21,8 @@ berfungsi meng-acak hasil dari perulangan yang akan kita buat
 b. n = int(input("masukan Nilai N:"))
 sedangkan untuk syntac ini kita gunakan untuk memasukan Variabel pada nilai N
 ![4](https://user-images.githubusercontent.com/46743068/53248728-f8715400-36e8-11e9-8336-064f8db269ad.jpg)
-5. Ketik Syntax :
-a=0
+5. Ketik Syntax :                                                                                                               
+a=0                                                                                                                             
 for c in range(n) :
 
 a. a=0
@@ -31,22 +31,22 @@ sebagai Variabel yang mana nanti gunakan untuk mengurutkan data
 b. for c in range(n)
 sebagai perintah perulangan data dari variabel (N)
 ![6](https://user-images.githubusercontent.com/46743068/53248780-1e96f400-36e9-11e9-8d1d-cbe24e2af8c0.jpg)
-6. ketik Syntax :
-a+= 1
-b = random.uniform(.0,.5)
-print('data ke:',a,'==>',b)
+6. ketik Syntax :                                                                                                               
+a+= 1                                                                                                                           
+b = random.uniform(.0,.5)                                                                                                       
+print('data ke:',a,'==>',b)                                                                                                     
 print("selesai")
 
-a. a+= 1 :
-sebagai bentuk perintah untuk mengurutkan data yang kita buat sebelumnya
+a. a+= 1 :                                                                                                                      
+sebagai bentuk perintah untuk mengurutkan data yang kita buat sebelumnya                                                        
 
-b. b = random.uniform(.0,.5) :
+b. b = random.uniform(.0,.5) :                                                                                                  
 digunakan sebagai variabel peng-acakan pada nilai (b)
 
-c. print('data ke:',a,'==>',b) :
+c. print('data ke:',a,'==>',b) :                                                                                                 
 digunakan untuk memunculkan hasil data (a) pengurutan dan (b) pengacakan
 
-d. print("selesai") :
+d. print("selesai") :                                                                                                           
 memunculkan pernyataan bahwa hasil telah di temukan dan selesai
 
 Dan jalankan syntax yang sudah di buat dengan menu RUN yang terdapat pada aplikasi Pycharm
