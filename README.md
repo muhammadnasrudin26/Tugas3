@@ -66,7 +66,8 @@ if a==0:
 break                                                                                                                           
 print('Bilangan terbesarnya adalah = ',max)
 
-![b 1](https://user-images.githubusercontent.com/46743068/53249127-fa87e280-36e9-11e9-829d-fac11ffca5ae.jpg
+![b 1](https://user-images.githubusercontent.com/46743068/53249127-fa87e280-36e9-11e9-829d-fac11ffca5ae.jpg)
+
 a. print('====== Menentukan Bilangan Terbesar ======') :
 Digunakan untuk memberikan judul dari program yang akan dibuat
 
@@ -90,9 +91,9 @@ dan ini di gunakan untuk perintah apabila nilai (a) di isi (0) maka pencarian ni
 i. print('Bilangan terbesarnya adalah = ',max)
 dan perintah ini untuk menampilkan hasil bilangan yang dimasukan dan terbesar
 
-Pilih menu Run pada menu Pycharm untuk menjalankan hasil dari syntax yang kita buat
+Pilih menu Run pada menu Pycharm untuk menjalankan hasil dari syntax yang kita buat                                             
 
-![b2](https://user-images.githubusercontent.com/46743068/53249298-57839880-36ea-11e9-864d-bdbc8ddf1d81.jpg)
+![b2](https://user-images.githubusercontent.com/46743068/53249298-57839880-36ea-11e9-864d-bdbc8ddf1d81.jpg)                     
 
 3. Latihan Ketiga
 
